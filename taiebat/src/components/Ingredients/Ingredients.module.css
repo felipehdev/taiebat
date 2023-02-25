@@ -1,0 +1,13 @@
+.ingredientsCtn {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+
+  color: #eff5fb;
+}
+
+.ingredient {
+    margin: 0 auto;
+    line-height: 22px;
+}

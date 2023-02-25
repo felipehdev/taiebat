@@ -1,0 +1,14 @@
+#root {
+  padding: 0;
+  border: 0;
+  display: flex;
+  margin: 0;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  justify-content: center;
+}

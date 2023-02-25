@@ -1,0 +1,12 @@
+.productTitle {
+  display: flex;
+  padding: 0 1rem;
+
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 20px;
+
+  color: #cb7a01;
+}

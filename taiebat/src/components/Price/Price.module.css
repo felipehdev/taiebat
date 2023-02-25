@@ -1,0 +1,30 @@
+.priceCtn {
+  display: flex;
+  justify-content: right;
+
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 700;
+
+  color: #cb7a01;
+}
+
+.price {
+  width: 53px;
+  height: 25px;
+  width: fit-content;
+  font-size: 20px;
+  line-height: 23px;
+
+  color: #cb7a01;
+}
+
+.cents {
+  width: 18px;
+  height: 25px;
+  width: fit-content;
+  font-size: 13px;
+  line-height: 33px;
+
+  color: #cb7a01;
+}
